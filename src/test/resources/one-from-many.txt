@@ -1,0 +1,7 @@
+C1	s	B	10	3
+C2	s	A	20	2
+C2	b	B	10	3
+C3	s	A	20	2
+C3	b	B	10	3
+C1	b	A	20	2
+C2	b	B	10	3

@@ -1,0 +1,12 @@
+C1	s	A	17	5
+C2	s	A	17	5
+C3	b	A	17	5
+C3	b	A	17	5
+C1	b	A	17	5
+C3	s	A	17	5
+C2	b	A	17	5
+C1	b	A	17	5
+C3	s	A	17	5
+C3	b	A	17	5
+C1	b	A	17	5
+C3	b	A	17	5
